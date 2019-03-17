@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Best Picture</string>
+    <string name="buttonName">Press me</string>
+    <string name="upperTextString">Press the button to see my cool picture!</string>
+</resources>
